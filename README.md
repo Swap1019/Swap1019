@@ -12,7 +12,7 @@
 	<h3>
 	You can call me Swap or Kian based on your prefrence 
 	</h3>
-  	I’m currently working on a wensite
+  	💻I’m currently working on a wensite💻
 </div>
 
 
@@ -25,9 +25,30 @@
 		<div align=Center><img src="https://skillicons.dev/icons?i=django" /></div>
 </h3>
 
-![snake animation](https://github.com/Swap1019/Swap1019/blob/output/github-contribution-grid-snake2.svg)
+ <div align="Center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/Swap1019/Swap1019/blob/output/github-contribution-grid-snake2.svg" />
+  <br/>
+</div>
 
 
+<br/>
+
+<div align="Center">
+	<h1>⚡ Stats ⚡</h1>
+	<img alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=swap1019&theme=transparent&show_icons=true" />
+</div>
+
+<div align="Center">
+	<h1>📱Contact me via📱</h1>
+	<a href="mailto:kianjafari660@gmail.com">
+		<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+	<a href="https://t.me/Swap1019">
+		<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+	</a>
+</div>
 
 
 
