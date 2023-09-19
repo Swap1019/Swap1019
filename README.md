@@ -8,19 +8,24 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=2000&pause=500&color=232BF7&center=true&vCenter=true&width=435&lines=Hi+There+%F0%9F%91%8B;Name's+Kian" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align=Center>
-		You can call me Swap or Kian based on your prefrence
-</h3>
+<div align=Center>
+	<h3>
+	You can call me Swap or Kian based on your prefrence 
+	</h3>
+  	I’m currently working on a wensite
+</div>
 
 
-<h1 align=Left>
+<h3 align=Left>
   Skills:
     <div align=Center ><img src="https://skillicons.dev/icons?i=python" /></div>
   Experienced with:
 		<div align=Center><img src="https://skillicons.dev/icons?i=mysql,redis,html,css,bootstrap" /></div>
   Learning:
 		<div align=Center><img src="https://skillicons.dev/icons?i=django" /></div>
-</h1>
+</h3>
+
+
 
 
 
