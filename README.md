@@ -25,7 +25,7 @@
 		<div align=Center><img src="https://skillicons.dev/icons?i=django" /></div>
 </h3>
 
-![Snake animation](Swap1019)
+![snake animation](https://github.com/Swap1019/Swap1019/blob/output/github-contribution-grid-snake2.svg)
 
 
 
