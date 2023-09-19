@@ -25,6 +25,7 @@
 		<div align=Center><img src="https://skillicons.dev/icons?i=django" /></div>
 </h3>
 
+![Snake animation](Swap1019)
 
 
 
