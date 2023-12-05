@@ -25,20 +25,25 @@
 		<div align=Center><img src="https://skillicons.dev/icons?i=django" /></div>
 </h3>
 
- <div align="Center">
+<!-- <div align="Center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/Swap1019/Swap1019/blob/output/github-contribution-grid-snake2.svg" />
   <br/>
-</div>
+</div>-->
 
 
 <br/>
 
 <div align="Center">
 	<h1>⚡ Stats ⚡</h1>
-	<img alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=swap1019&theme=transparent&show_icons=true" />
+	<img src="https://stats.dooboo.io/api/github-stats-advanced?login=Swap1019">
+	<hr>
+	<img src="https://stats.dooboo.io/api/github-trophies?login=Swap1019">
 </div>
+
+	
+یه
 
 <div align="Center">
 	<h1>📱Contact me via📱</h1>
