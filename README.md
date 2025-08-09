@@ -9,7 +9,6 @@
 </h1>
 
 <div align="center">
-  <h3>Call me Swap or Kian — your choice 🚀</h3>
   💻 Currently focused on mastering test writing 💻
 </div>
 
