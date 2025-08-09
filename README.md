@@ -32,8 +32,6 @@
 <div align="center">
   <h1>⚡ GitHub Stats</h1>
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Swap1019" />
-  <hr>
-  <img src="https://stats.dooboo.io/api/github-trophies?login=Swap1019" />
 </div>
 
 ---
