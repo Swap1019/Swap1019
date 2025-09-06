@@ -30,13 +30,6 @@
 ---
 
 <div align="center">
-  <h1>⚡ GitHub Stats</h1>
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Swap1019" />
-</div>
-
----
-
-<div align="center">
   <h1>📱 Contact Me</h1>
   <a href="mailto:kianjafari660@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
